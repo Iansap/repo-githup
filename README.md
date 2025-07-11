@@ -1,0 +1,2 @@
+# repo-githup
+latihan
